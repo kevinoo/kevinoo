@@ -5,8 +5,9 @@ Senior Backend Developer
 ------------------------
 
 *   🌍  I'm based in Italia
-*   🤝  I'm open to collaborating on phpWhois<a href="https://www.github.com/kevinoo" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/kevinoo?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
+*   🤝  I'm open to collaborating on phpWhois
+
+<a href="https://www.github.com/kevinoo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/kevinoo?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 
 ### Skills 
 <p align="left">
@@ -115,16 +116,21 @@ Senior Backend Developer
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
   </picture>
-  </a></p>
+  </a>
+</p>
   
 ### Badges
 <a href="https://github.com/kevinoo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinoo&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Top Repositories
-<a href="https://github.com/kevinoo/phpWhois" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=phpWhois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
-<a href="https://github.com/kevinoo/panorama-whois" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=panorama-whois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
-<a href="https://github.com/kevinoo/docker-php-laravel-image" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=docker-php-laravel-image&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
 
+<div>
+<a href="https://github.com/kevinoo/phpWhois" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=phpWhois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
+<a href="https://github.com/kevinoo/panorama-whois" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=panorama-whois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
+</div>
+<div>
+  <a href="https://github.com/kevinoo/docker-php-laravel-image" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=docker-php-laravel-image&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
+</div>
 
 ### Support Me
 <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kevinoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/kevinoo"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
