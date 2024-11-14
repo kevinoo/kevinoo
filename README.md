@@ -29,13 +29,13 @@ Senior Backend Developer
   
   #### Backend & Database
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP 8.3+ (from v5.x)" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel 11+ (from v6.x)" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
   #### Cloud
@@ -43,6 +43,7 @@ Senior Backend Developer
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
   
   #### Code editors
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" width="36" height="36" alt="PhpStorm" /></a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" /></a>
 
   #### CMS
@@ -124,63 +125,17 @@ Senior Backend Developer
 
 ### Top Repositories
 
-<div>
-<a href="https://github.com/kevinoo/phpWhois" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=phpWhois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
-<a href="https://github.com/kevinoo/panorama-whois" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=panorama-whois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
-</div>
-<div>
-  <a href="https://github.com/kevinoo/docker-php-laravel-image" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=docker-php-laravel-image&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
-</div>
+<p width="100%">  
+<a href="https://github.com/kevinoo/phpWhois"><img style="width: 32%; height: 8rem; background-color: #22272e;" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=phpWhois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
+<a href="https://github.com/kevinoo/panorama-whois"><img style="width: 32%; height: 8rem; background: #22272e;" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=panorama-whois&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/kevinoo/docker-php-laravel-image"><img style="width: 32%; height: 8rem; background: #22272e;" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinoo&repo=docker-php-laravel-image&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a>
+  <br /><br />
+</p>
 
 ### Support Me
-<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kevinoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/kevinoo"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------
-
-### Hi there 👋
-
-## Stack & Expertise
-
-| Backend                 	      | Frontend         | Misc          	|
-|-------------------------------- |----------------- |---------------	|
-| PHP 8.3+ (from v5.x)      	    | JavaScript       | TDD           	|
-| Laravel 11+ (from v6.x)    	    | TypeScript       | DDD           	|
-| PostgreSQL/MySQL                | React            | Tech writer   	|
-| Queues (DB, Redis, SQS, PubSub) | SCSS           	 | Linux & Win   	|
-| Redis 	                        | CI/CD         	 | Docker
-| PHPUnit                       	|        	         | GCP & AWS       |
-
-Support with :heart: of StackOverflow 
-
-### 🔭 I’m currently working on:
-  - [phpWhois](https://github.com/kevinoo/phpWhois)
-  - [panorama-whois](https://github.com/kevinoo/panorama-whois)
+<a href="https://www.buymeacoffee.com/kevinoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.ko-fi.com/kevinoo"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
 ### 💬 Ask me about ...
   - PHP
   - Database (PSQL, MySQL, and so on...)
-
-<!--
-**kevinoo/kevinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
